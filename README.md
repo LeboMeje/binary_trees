@@ -32,8 +32,12 @@ typedef struct binary_tree_s avl_t;
 typedef struct binary_tree_s heap_t;
 ```
 
-Function Prototypes
+## Technologies
+* Tested on Ubuntu 20.04 LTS
+* C files compiled using gcc std=gnu89
+ 
 
+Function Prototypes
 | File                             | Prototype                                                                                        |
 | -------------------------------- | ------------------------------------------------------------------------------------------------ |
 | `binary_tree_print.c`            | `void binary_tree_print(const binary_tree_t *tree)`                                              |
